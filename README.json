@@ -1,0 +1,1140 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-selfhosted",
+          "description": "Applications that can be hosted on your own servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T18:50:03Z",
+            "owner": "awesome-selfhosted",
+            "repo": "awesome-selfhosted",
+            "stars": 312328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-scalability",
+          "description": "An up-to-date and curated reading list for designing high scalability, high availability, high stabilityback-end systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-04T03:51:47Z",
+            "owner": "binhnguyennus",
+            "repo": "awesome-scalability",
+            "stars": 73237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-shell",
+          "description": "Command-line frameworks, toolkits, guides and gizmos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:40:51Z",
+            "owner": "alebcay",
+            "repo": "awesome-shell",
+            "stars": 37435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-sysadmin",
+          "description": "Backups, configuration management, DNS, IMAP/POP3, LDAP, monitoring, SSH, statistics, troubleshooting, virtualization, VPN and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-26T23:45:17Z",
+            "owner": "kahun",
+            "repo": "awesome-sysadmin",
+            "stars": 24347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awseome-console-services",
+          "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-01T08:49:45Z",
+            "owner": "chubin",
+            "repo": "awesome-console-services",
+            "stars": 6492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomewm",
+          "description": "A curated list of awesome tools/scripts/configs for Awesome Window Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-03T07:44:35Z",
+            "owner": "atsepkov",
+            "repo": "awesome-awesome-wm",
+            "stars": 548
+          }
+        }
+      ],
+      "title": "Computer management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-bigdata",
+          "description": "Big data frameworks, resources and other awesomeness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T12:51:12Z",
+            "owner": "oxnr",
+            "repo": "awesome-bigdata",
+            "stars": 14532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-hadoop",
+          "description": "Hadoop ecosystem resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-07T19:21:33Z",
+            "owner": "youngwookim",
+            "repo": "awesome-hadoop",
+            "stars": 1116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-storage",
+          "description": "A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-22T16:51:28Z",
+            "owner": "okhosting",
+            "repo": "awesome-storage",
+            "stars": 1011
+          }
+        }
+      ],
+      "title": "Data processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-vscode",
+          "description": "A curated list of delightful VS Code packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-21T09:36:55Z",
+            "owner": "viatsko",
+            "repo": "awesome-vscode",
+            "stars": 28954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-emacs",
+          "description": "A community driven list of useful Emacs packages, libraries and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T04:32:20Z",
+            "owner": "emacs-tw",
+            "repo": "awesome-emacs",
+            "stars": 9354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-vim",
+          "description": "Plugins are organized by section and ordered alphabetically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-06T18:42:55Z",
+            "owner": "akrawchyk",
+            "repo": "awesome-vim",
+            "stars": 2125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-atom",
+          "description": "A curated list of delightful Atom packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-01-28T15:57:21Z",
+            "owner": "mehcode",
+            "repo": "awesome-atom",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-jetbrains",
+          "description": "A collection of awesome fonts and color schemes to be used in Jetbrains IDEs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-29T17:06:06Z",
+            "owner": "championswimmer",
+            "repo": "awesome-jetbrains",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-react",
+          "description": "A collection of awesome things regarding React ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T07:31:52Z",
+            "owner": "enaqx",
+            "repo": "awesome-react",
+            "stars": 74266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-rest",
+          "description": "Resources about RESTful API architecture, development, test, and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T08:22:14Z",
+            "owner": "marmelab",
+            "repo": "awesome-rest",
+            "stars": 3901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-jquery",
+          "description": "A curated list of jQuery plugins and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-01T15:37:15Z",
+            "owner": "petk",
+            "repo": "awesome-jquery",
+            "stars": 981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-dojo",
+          "description": "Dojo JavaScript Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-09-25T22:46:54Z",
+            "owner": "petk",
+            "repo": "awesome-dojo",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-http",
+          "description": "A curated list of the best HTTP clients for various languages & libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-24T19:40:54Z",
+            "owner": "easybase",
+            "repo": "awesome-http",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Front-end development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-python",
+          "description": "Files, dates, text processing, NLP, imagery, audio, video, geolocation, web frameworks, OAuth, web crawling, networking, GUI, game development, testing, science and data analysis and machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-go",
+          "description": "Go frameworks, libraries and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:54:20Z",
+            "owner": "avelino",
+            "repo": "awesome-go",
+            "stars": 180934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-cpp",
+          "description": "C/C++ frameworks, libraries, and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T08:08:58Z",
+            "owner": "fffaraz",
+            "repo": "awesome-cpp",
+            "stars": 72749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-rust",
+          "description": "A curated list of Rust code and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:42:33Z",
+            "owner": "rust-unofficial",
+            "repo": "awesome-rust",
+            "stars": 58812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-java",
+          "description": "Build tool, code analysis, database, GUI, IDE, JSON, machine learning, PDF, science, testing and web crawling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T00:17:55Z",
+            "owner": "akullpp",
+            "repo": "awesome-java",
+            "stars": 48723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-javascript",
+          "description": "JavaScript libraries, resources and shiny things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T19:54:43Z",
+            "owner": "sorrycc",
+            "repo": "awesome-javascript",
+            "stars": 35019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-php",
+          "description": "Frameworks, templating, URL, e-mail, files, imagery, testing, security, documentation, geolocation, date, PDF, search and authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-13T19:44:57Z",
+            "owner": "ziadoz",
+            "repo": "awesome-php",
+            "stars": 32647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-dotnet",
+          "description": ".NET libraries, tools, frameworks and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-26T05:16:53Z",
+            "owner": "quozd",
+            "repo": "awesome-dotnet",
+            "stars": 21553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-elixir",
+          "description": "Elixir libraries, resources and shiny things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-10-12T18:06:13Z",
+            "owner": "h4cc",
+            "repo": "awesome-elixir",
+            "stars": 13158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-scala",
+          "description": "Scala frameworks, libraries and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-20T08:21:10Z",
+            "owner": "lauris",
+            "repo": "awesome-scala",
+            "stars": 9232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-R",
+          "description": "packages, IDEs, learning courses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-09-18T16:46:19Z",
+            "owner": "qinwf",
+            "repo": "awesome-R",
+            "stars": 6495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-cmake",
+          "description": "CMake scripts, modules, examples and others - for C/C++ software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-11T08:20:09Z",
+            "owner": "onqtam",
+            "repo": "awesome-cmake",
+            "stars": 5412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-typescript",
+          "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-11T04:21:43Z",
+            "owner": "dzharii",
+            "repo": "awesome-typescript",
+            "stars": 5117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-haskell",
+          "description": "A curated list of Haskell code and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T08:39:39Z",
+            "owner": "krispo",
+            "repo": "awesome-haskell",
+            "stars": 3287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-common-lisp",
+          "description": "Common Lisp frameworks, libraries, resources and other shinies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-07-07T11:19:23Z",
+            "owner": "CodyReichert",
+            "repo": "awesome-cl",
+            "stars": 2968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-clojure",
+          "description": "Package management, audio, HTTP, database, websocket and testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-06T21:10:02Z",
+            "owner": "razum2um",
+            "repo": "awesome-clojure",
+            "stars": 2838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-AutoIt",
+          "description": "UDFs, example scripts, tools and useful resources for AutoIt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-21T12:04:57Z",
+            "owner": "J2TEAM",
+            "repo": "awesome-AutoIt",
+            "stars": 923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-c-sharp",
+          "description": "C# frameworks, libraries and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-08T00:07:46Z",
+            "owner": "uhub",
+            "repo": "awesome-c-sharp",
+            "stars": 923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-d",
+          "description": "Build tools, compilers, IDE, GUI, database clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-06-28T00:08:29Z",
+            "owner": "dlang-community",
+            "repo": "awesome-d",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-perl",
+          "description": "Benchmarks, databases, images, logging, profiling, testing, text processing and web frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-08-07T13:32:26Z",
+            "owner": "hachiojipm",
+            "repo": "awesome-perl",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-cobol",
+          "description": "Web frameworks, template engine, forms, authentication & OAuth, database, e-mail, messaging, imagery, text processing, machine learning, testing, audio, video and logging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-28T01:56:51Z",
+            "owner": "loveOSS",
+            "repo": "awesome-cobol",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-julia",
+          "description": "List of Julia resources and packages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-10-01T18:29:44Z",
+            "owner": "melvin0008",
+            "repo": "awesome-julia",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "awesome-ruby - Ruby libraries, tools, frameworks and software",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@markets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-16T20:36:03Z",
+                "owner": "markets",
+                "repo": "awesome-ruby",
+                "stars": 14136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@Sdogruyol",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2024-08-15T08:02:23Z",
+                "owner": "sdogruyol",
+                "repo": "awesome-ruby",
+                "stars": 1266
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Programming languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-cryptography",
+          "description": "Cryptography and encryption resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T08:39:47Z",
+            "owner": "sobolevn",
+            "repo": "awesome-cryptography",
+            "stars": 7063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-materials-informatics",
+          "description": "Curated list of known efforts in materials informatics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-24T10:49:03Z",
+            "owner": "tilde-lab",
+            "repo": "awesome-materials-informatics",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-space-books",
+          "description": "(mostly) offline reference books on space technology, science and history of spaceflight.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-12T13:10:06Z",
+            "owner": "Hunter-Github",
+            "repo": "awesome-space-books",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-molecular-dynamics",
+          "description": "A curated list of awesome Molecular Dynamics libraries, tools and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-02T19:34:46Z",
+            "owner": "ipudu",
+            "repo": "awesome-molecular-dynamics",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-space",
+          "description": "Jobs, Media, Rockets, Research, and other Space-related Open Source resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-04T21:36:49Z",
+            "owner": "elburz",
+            "repo": "awesome-space",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "awesome-chemistry",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@lmmentel",
+              "description": "A curated list of Python packages related to chemistry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-09-21T08:25:01Z",
+                "owner": "lmmentel",
+                "repo": "awesome-python-chemistry",
+                "stars": 1431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@hsiaoyi0504",
+              "description": "A curated list of awesome Cheminformatics libraries and software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-03-15T00:55:18Z",
+                "owner": "hsiaoyi0504",
+                "repo": "awesome-cheminformatics",
+                "stars": 879
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Sciences"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Collection",
+          "description": "A Collection of Awesome Generative AI Applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T09:47:26Z",
+            "owner": "ai-collection",
+            "repo": "ai-collection",
+            "stars": 9107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-github",
+          "description": "Apps, tools, websites, browser extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-13T21:55:24Z",
+            "owner": "Kikobeats",
+            "repo": "awesome-github",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-wikipedia",
+          "description": "Datasets, frameworks, libraries and other software related to Wikipedia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-08T13:46:59Z",
+            "owner": "emijrp",
+            "repo": "awesome-wikipedia",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Websites"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vulnerability and Monitoring Tools",
+          "description": "A collection of awesome software, libraries, documents, books, resources and cool stuff about security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-11T02:00:26Z",
+            "owner": "sbilly",
+            "repo": "awesome-security",
+            "stars": 14744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Security",
+          "description": "Web application vulnerability List",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T04:50:06Z",
+            "owner": "qazbnm456",
+            "repo": "awesome-web-security",
+            "stars": 13672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Information Security Resources",
+          "description": "A curated list of awesome information security resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-21T19:28:33Z",
+            "owner": "onlurking",
+            "repo": "awesome-infosec",
+            "stars": 5716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSX Security",
+          "description": "OSX vulnerability List",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-27T22:16:28Z",
+            "owner": "kai5263499",
+            "repo": "osx-security-awesome",
+            "stars": 785
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-public-datasets",
+          "description": "A topic-centric list of HQ open datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-remote-job",
+          "description": "Remote working: job boards, articles, communities, and other resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-08T22:48:54Z",
+            "owner": "lukasz-madon",
+            "repo": "awesome-remote-job",
+            "stars": 47509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-static-analysis",
+          "description": "A curated list of static analysis tools, linters and code quality checkers for various programming languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T13:06:01Z",
+            "owner": "analysis-tools-dev",
+            "repo": "static-analysis",
+            "stars": 14730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-graph-classification",
+          "description": "A curated list of important graph embedding, classification and representation learning papers with implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-18T12:10:08Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-graph-classification",
+            "stars": 4799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Internet of Things (IoT)",
+          "description": "A curated list of awesome Internet of Things projects and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T11:02:29Z",
+            "owner": "HQarroum",
+            "repo": "awesome-iot",
+            "stars": 4456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-decision-tree-papers",
+          "description": "A collection of research papers on decision, classification and regression trees with implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-28T23:17:27Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-decision-tree-papers",
+            "stars": 2474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-community-detection",
+          "description": "A curated list of community detection techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-20T17:06:00Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-community-detection",
+            "stars": 2448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-os",
+          "description": "A curated list of operating systems and their design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T07:25:24Z",
+            "owner": "jubalh",
+            "repo": "awesome-os",
+            "stars": 2250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-fraud-detection-papers",
+          "description": "A curated list of data mining papers about fraud detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-05T12:28:59Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-fraud-detection-papers",
+            "stars": 1822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-unix",
+          "description": "History of UNIX software and principles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T20:00:04Z",
+            "owner": "sirredbeard",
+            "repo": "awesome-unix",
+            "stars": 1768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-open-company",
+          "description": "Companies that embrace values of openness and transparency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-30T16:18:37Z",
+            "owner": "opencompany",
+            "repo": "awesome-open-company",
+            "stars": 1246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-gradient-boosting-papers",
+          "description": "A curated list of gradient boosting research papers with implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-05T12:39:45Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-gradient-boosting-papers",
+            "stars": 1049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-monte-carlo-tree-search",
+          "description": "A curated list of important Monte Carlo tree search papers with implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T10:28:51Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-monte-carlo-tree-search-papers",
+            "stars": 713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-metric-learning",
+          "description": "A curated list of awesome practical Metric Learning resources and its applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-12T07:44:14Z",
+            "owner": "qdrant",
+            "repo": "awesome-metric-learning",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-community",
+          "description": "A curated list of awesome programming, development, technical support and discussion channels, groups and communities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-27T09:58:38Z",
+            "owner": "phpearth",
+            "repo": "awesome-community",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-snips",
+          "description": "A curated list of Snips assistants and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-06T08:27:27Z",
+            "owner": "snipsco",
+            "repo": "awesome-snips",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-cryptocurrencies",
+          "description": "A curated list of awesome cryptocurrencies 🎩",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-31T07:33:35Z",
+            "owner": "kasketis",
+            "repo": "awesome-cryptocurrencies",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-movies",
+          "description": "Not yet! Do it yourself!",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-nostalgia",
+          "description": "Nostalgia trigger links.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-opendata",
+          "description": "A curated list of awesome opendata repositories.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-pentester",
+          "description": "A curated list of pentesting resources.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:31:50.172Z",
+    "original_repository": "emijrp/awesome-awesome",
+    "original_repository_sha": "8c3451d24596bb0b173779a1133a1821d41e74b6",
+    "enhanced_repository": "enhansome/enhansome-awesome",
+    "enhanced_repository_description": null,
+    "title": "Awesome Awesome with stars"
+  }
+}
