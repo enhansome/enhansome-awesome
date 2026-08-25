@@ -22,8 +22,8 @@ A curated list of awesome curated lists of many topics.
 
 ## Computer management
 
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,866 | 🐛 0 | 📅 2026-08-22 - Applications that can be hosted on your own servers
-* [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,516 | 🐛 26 | 📅 2026-01-04 - An up-to-date and curated reading list for designing high scalability, high availability, high stabilityback-end systems.
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,900 | 🐛 0 | 📅 2026-08-22 - Applications that can be hosted on your own servers
+* [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,518 | 🐛 26 | 📅 2026-01-04 - An up-to-date and curated reading list for designing high scalability, high availability, high stabilityback-end systems.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,501 | 🐛 184 | 📅 2025-08-28 - Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,352 | 🐛 270 | 📅 2024-03-26 - Backups, configuration management, DNS, IMAP/POP3, LDAP, monitoring, SSH, statistics, troubleshooting, virtualization, VPN and more.
 * [awseome-console-services](https://github.com/chubin/awesome-console-services) ⭐ 6,510 | 🐛 23 | 📅 2026-02-01 - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).
@@ -54,13 +54,13 @@ A curated list of awesome curated lists of many topics.
 
 ## Programming languages
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,914 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - Files, dates, text processing, NLP, imagery, audio, video, geolocation, web frameworks, OAuth, web crawling, networking, GUI, game development, testing, science and data analysis and machine learning.
-* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,168 | 🐛 216 | 🌐 Go | 📅 2026-08-25 - Go frameworks, libraries and software.
-* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,921 | 🐛 311 | 📅 2026-08-22 - C/C++ frameworks, libraries, and resources.
-* [awesome-rust](https://github.com/kud1ing/awesome-rust) ⭐ 58,963 | 🐛 7 | 🌐 Rust | 📅 2026-08-24 - A curated list of Rust code and resources.
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,840 | 🐛 3 | 📅 2026-08-24 - Build tool, code analysis, database, GUI, IDE, JSON, machine learning, PDF, science, testing and web crawling.
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,022 | 🐛 30 | 📅 2026-08-19 - JavaScript libraries, resources and shiny things.
-* [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13 - Frameworks, templating, URL, e-mail, files, imagery, testing, security, documentation, geolocation, date, PDF, search and authentication.
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,935 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - Files, dates, text processing, NLP, imagery, audio, video, geolocation, web frameworks, OAuth, web crawling, networking, GUI, game development, testing, science and data analysis and machine learning.
+* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,181 | 🐛 216 | 🌐 Go | 📅 2026-08-25 - Go frameworks, libraries and software.
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,925 | 🐛 311 | 📅 2026-08-22 - C/C++ frameworks, libraries, and resources.
+* [awesome-rust](https://github.com/kud1ing/awesome-rust) ⭐ 58,966 | 🐛 7 | 🌐 Rust | 📅 2026-08-24 - A curated list of Rust code and resources.
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,841 | 🐛 3 | 📅 2026-08-24 - Build tool, code analysis, database, GUI, IDE, JSON, machine learning, PDF, science, testing and web crawling.
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,021 | 🐛 30 | 📅 2026-08-19 - JavaScript libraries, resources and shiny things.
+* [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,670 | 🐛 85 | 📅 2026-07-13 - Frameworks, templating, URL, e-mail, files, imagery, testing, security, documentation, geolocation, date, PDF, search and authentication.
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,577 | 🐛 139 | 📅 2026-03-26 - .NET libraries, tools, frameworks and software.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,164 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12 - Elixir libraries, resources and shiny things.
 * [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,238 | 🐛 14 | 🌐 Python | 📅 2024-09-20 - Scala frameworks, libraries and software.
@@ -92,7 +92,7 @@ A curated list of awesome curated lists of many topics.
 * \[awesome-biology] - Not yet! Do it yourself!
 * awesome-chemistry
   * [@lmmentel](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,434 | 🐛 10 | 📅 2025-09-21 - A curated list of Python packages related to chemistry
-  * [@hsiaoyi0504](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 881 | 🐛 35 | 📅 2024-03-15 - A curated list of awesome Cheminformatics libraries and software.
+  * [@hsiaoyi0504](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 880 | 🐛 35 | 📅 2024-03-15 - A curated list of awesome Cheminformatics libraries and software.
 * \[awesome-geography] - Not yet! Do it yourself!
 * \[awesome-math] - Not yet! Do it yourself!
 * \[awesome-physics] - Not yet! Do it yourself!
@@ -117,15 +117,15 @@ A curated list of awesome curated lists of many topics.
 
 ## Security
 
-* [Vulnerability and Monitoring Tools](https://github.com/sbilly/awesome-security) ⭐ 14,792 | 🐛 315 | 📅 2026-01-11 - A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+* [Vulnerability and Monitoring Tools](https://github.com/sbilly/awesome-security) ⭐ 14,793 | 🐛 315 | 📅 2026-01-11 - A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 * [Web Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,729 | 🐛 4 | 🌐 Python | 📅 2026-08-21 - Web application vulnerability List
 * [Information Security Resources](https://github.com/onlurking/awesome-infosec) ⭐ 5,724 | 🐛 15 | 📅 2026-08-15 - A curated list of awesome information security resources.
 * [OSX Security](https://github.com/kai5263499/osx-security-awesome) ⭐ 786 | 🐛 0 | 📅 2026-06-27 - OSX vulnerability List
 
 ## Other
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,603 | 🐛 159 | 📅 2026-08-24 - A topic-centric list of HQ open datasets.
-* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,015 | 🐛 82 | 📅 2026-08-16 - Remote working: job boards, articles, communities, and other resources.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,609 | 🐛 159 | 📅 2026-08-24 - A topic-centric list of HQ open datasets.
+* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,021 | 🐛 82 | 📅 2026-08-16 - Remote working: job boards, articles, communities, and other resources.
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) ⭐ 14,747 | 🐛 27 | 🌐 Rust | 📅 2026-06-10 - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,798 | 🐛 0 | 🌐 Python | 📅 2023-03-18 - A curated list of important graph embedding, classification and representation learning papers with implementations.
 * [Internet of Things (IoT)](https://github.com/HQarroum/awesome-iot) ⭐ 4,477 | 🐛 8 | 📅 2026-08-10 - A curated list of awesome Internet of Things projects and resources.

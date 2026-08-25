@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T18:55:56Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314866
+            "stars": 314900
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73516
+            "stars": 73518
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315914
+            "stars": 315935
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-25T00:32:48Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182168
+            "stars": 182181
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72921
+            "stars": 72925
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-24T07:28:27Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58963
+            "stars": 58966
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48840
+            "stars": 48841
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35021
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32672
+            "stars": 32670
           }
         },
         {
@@ -792,7 +792,7 @@
                 "last_commit": "2024-03-15T00:55:18Z",
                 "owner": "hsiaoyi0504",
                 "repo": "awesome-cheminformatics",
-                "stars": 881
+                "stars": 880
               }
             }
           ]
@@ -866,7 +866,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14792
+            "stars": 14793
           }
         },
         {
@@ -932,7 +932,7 @@
             "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78603
+            "stars": 78609
           }
         },
         {
@@ -947,7 +947,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48015
+            "stars": 48021
           }
         },
         {
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:38.122Z",
+    "last_updated": "2026-08-25T08:57:36.427Z",
     "original_repository": "emijrp/awesome-awesome",
     "original_repository_id": 21388604,
     "original_repository_sha": "8c3451d24596bb0b173779a1133a1821d41e74b6",
