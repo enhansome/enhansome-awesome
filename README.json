@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+            "homepage": "https://awesome-selfhosted.net/",
             "id": 36633370,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:13:31Z",
+            "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315766
+            "stars": 315830,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cloud",
+              "free-software",
+              "hosting",
+              "privacy",
+              "self-hosted",
+              "selfhosted"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -26,12 +40,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+            "homepage": null,
             "id": 115478820,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
+            "open_issues": 26,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73574
+            "stars": 73580,
+            "topics": [
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "backend",
+              "big-data",
+              "computer-science",
+              "design-patterns",
+              "devops",
+              "distributed-systems",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "lists",
+              "machine-learning",
+              "programming",
+              "resources",
+              "scalability",
+              "system",
+              "system-design",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -42,12 +82,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+            "homepage": null,
             "id": 21552971,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
+            "open_issues": 185,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37523
+            "stars": 37526,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash",
+              "cli",
+              "fish",
+              "list",
+              "shell",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -58,12 +112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+            "homepage": null,
             "id": 16677706,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
+            "open_issues": 270,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24351
+            "stars": 24350,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -74,12 +133,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
+            "homepage": null,
             "id": 85309968,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-01T08:49:45Z",
+            "open_issues": 23,
             "owner": "chubin",
             "repo": "awesome-console-services",
-            "stars": 6514
+            "stars": 6514,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curl",
+              "resources",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -90,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome tools/scripts/configs for Awesome Window Manager.",
+            "homepage": null,
             "id": 43186586,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T18:42:11Z",
+            "open_issues": 3,
             "owner": "atsepkov",
             "repo": "awesome-awesome-wm",
-            "stars": 550
+            "stars": 550,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         }
@@ -112,12 +187,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+            "homepage": "https://github.com/onurakpolat/awesome-bigdata",
             "id": 21500692,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-31T12:51:12Z",
+            "open_issues": 4,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14599
+            "stars": 14600,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bigdata",
+              "data",
+              "data-analytics",
+              "data-science",
+              "data-stream",
+              "data-visualization",
+              "data-warehouse",
+              "database",
+              "distributed-database",
+              "series-database",
+              "stream-processing",
+              "streaming-data",
+              "visualize-data"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -128,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
+            "homepage": "http://youngwookim.github.io/awesome-hadoop",
             "id": 21599652,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-07T19:21:33Z",
+            "open_issues": 2,
             "owner": "youngwookim",
             "repo": "awesome-hadoop",
-            "stars": 1116
+            "stars": 1116,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -144,12 +245,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.",
+            "homepage": "https://okhosting.com",
             "id": 198273680,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-22T16:51:28Z",
+            "open_issues": 7,
             "owner": "okhosting",
             "repo": "awesome-storage",
-            "stars": 1019
+            "stars": 1019,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "backup",
+              "ceph",
+              "curated-lists",
+              "encription",
+              "glusterfs",
+              "high-availability",
+              "nas",
+              "nfs",
+              "redundancy",
+              "replication",
+              "s3",
+              "s3-backup",
+              "s3-bucket",
+              "s3-client",
+              "s3-storage",
+              "san",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         }
@@ -166,12 +293,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 A curated list of delightful VS Code packages and resources.",
+            "homepage": "https://viatsko.github.io/awesome-vscode/",
             "id": 51270739,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-06-21T09:36:55Z",
+            "open_issues": 54,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28981
+            "stars": 28982,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "visual-studio",
+              "visual-studio-code",
+              "visual-studio-code-extension",
+              "visual-studio-code-theme",
+              "visualstudio",
+              "vscode",
+              "vscode-extension",
+              "vscode-theme"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -182,12 +326,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community driven list of useful Emacs packages, libraries and other items.",
+            "homepage": null,
             "id": 22493222,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-08-28T19:15:40Z",
+            "open_issues": 36,
             "owner": "emacs-tw",
             "repo": "awesome-emacs",
-            "stars": 9371
+            "stars": 9371,
+            "topics": [
+              "awesome-list",
+              "emacs"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -198,12 +350,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Vim plugin shortlist",
+            "homepage": "https://vim.zeef.com/andrew.krawchyk",
             "id": 22468657,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-06T18:42:55Z",
+            "open_issues": 11,
             "owner": "akrawchyk",
             "repo": "awesome-vim",
-            "stars": 2129
+            "stars": 2129,
+            "topics": [
+              "awesome",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -214,12 +374,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of delightful Atom packages and resources.",
+            "homepage": null,
             "id": 34370074,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2019-01-28T15:57:21Z",
+            "open_issues": 4,
             "owner": "mehcode",
             "repo": "awesome-atom",
-            "stars": 1928
+            "stars": 1928,
+            "topics": [
+              "atom",
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -230,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome Fonts and Color Schemes to be used in Jetbrains IDEs.",
+            "homepage": null,
             "id": 69825256,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-29T17:06:06Z",
+            "open_issues": 0,
             "owner": "championswimmer",
             "repo": "awesome-jetbrains",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         }
@@ -252,12 +426,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome things regarding React ecosystem",
+            "homepage": null,
             "id": 22670857,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-20T07:58:12Z",
+            "open_issues": 83,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74423
+            "stars": 74426,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "react",
+              "react-apps",
+              "react-native",
+              "react-tutorial",
+              "samples",
+              "tutorial",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -268,12 +458,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
+            "homepage": "https://github.com/marmelab/awesome-rest",
             "id": 35204235,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-13T08:22:14Z",
+            "open_issues": 16,
             "owner": "marmelab",
             "repo": "awesome-rest",
-            "stars": 3909
+            "stars": 3910,
+            "topics": [
+              "awesome",
+              "rest"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -284,12 +482,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
+            "homepage": null,
             "id": 25960710,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-01T15:37:15Z",
+            "open_issues": 0,
             "owner": "petk",
             "repo": "awesome-jquery",
-            "stars": 981
+            "stars": 981,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "jquery"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -300,12 +508,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
+            "homepage": null,
             "id": 25577168,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-25T22:46:54Z",
+            "open_issues": 0,
             "owner": "petk",
             "repo": "awesome-dojo",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "dojo",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -316,12 +534,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 A curated list of the best HTTP clients for various languages & libraries",
+            "homepage": null,
             "id": 462982039,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-24T19:40:54Z",
+            "open_issues": 1,
             "owner": "easybase",
             "repo": "awesome-http",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "http",
+              "list",
+              "open-source",
+              "requests"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         }
@@ -338,12 +568,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "homepage": "https://awesome-python.com/",
             "id": 21289110,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316742
+            "stars": 316806,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "python",
+              "python-frameworks",
+              "python-libraries",
+              "python-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -354,12 +596,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "homepage": "https://awesome-go.com",
             "id": 21540759,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:52:34Z",
+            "open_issues": 219,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182541
+            "stars": 182558,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "go",
+              "golang",
+              "golang-library",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -370,12 +624,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+            "homepage": "http://fffaraz.github.io/awesome-cpp/",
             "id": 21935031,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-22T08:36:07Z",
+            "open_issues": 312,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72980
+            "stars": 72983,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "cpp-library",
+              "cppcon",
+              "libraries",
+              "list",
+              "lists",
+              "programming-tutorial",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -386,12 +658,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Rust code and resources.",
+            "homepage": null,
             "id": 21938243,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T11:12:13Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59028
+            "stars": 59031,
+            "topics": [
+              "awesome",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -402,12 +682,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+            "homepage": null,
             "id": 21648001,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
+            "open_issues": 3,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48875
+            "stars": 48878,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -418,12 +706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+            "homepage": null,
             "id": 21393871,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-19T17:00:42Z",
+            "open_issues": 31,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35022,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -434,12 +727,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+            "homepage": null,
             "id": 14705691,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
+            "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32670
+            "stars": 32671,
+            "topics": [
+              "awesome",
+              "awesome-lists",
+              "php",
+              "php-applications",
+              "php-framework",
+              "php-installation",
+              "php-library"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -450,12 +756,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome .NET libraries, tools, frameworks and software",
+            "homepage": null,
             "id": 21894635,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-26T05:16:53Z",
+            "open_issues": 144,
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21578
+            "stars": 21579,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "clr",
+              "csharp",
+              "dotnet",
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -466,12 +784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
+            "homepage": "https://twitter.com/AwesomeElixir",
             "id": 21402627,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2025-10-12T18:06:13Z",
+            "open_issues": 29,
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13166
+            "stars": 13166,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -482,12 +805,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community driven list of useful Scala libraries, frameworks and software.",
+            "homepage": "https://lauris.github.io/scala/2014/08/27/awesome-scala/",
             "id": 21604505,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-20T08:21:10Z",
+            "open_issues": 14,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9239
+            "stars": 9239,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "scala",
+              "scala-library",
+              "scalajs"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -498,12 +832,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome R packages, frameworks and software.",
+            "homepage": null,
             "id": 22003158,
             "language": "R",
+            "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
+            "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6506
+            "stars": 6507,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-analysis",
+              "data-science",
+              "list",
+              "r",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -514,12 +861,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
+            "homepage": null,
             "id": 67722380,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T12:16:11Z",
+            "open_issues": 4,
             "owner": "onqtam",
             "repo": "awesome-cmake",
-            "stars": 5419
+            "stars": 5419,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cmake",
+              "cmake-examples",
+              "cmake-modules",
+              "cmake-resources",
+              "cmake-scripts",
+              "cmake-toolchains",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -530,12 +892,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
+            "homepage": null,
             "id": 36996520,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-02-11T04:21:43Z",
+            "open_issues": 3,
             "owner": "dzharii",
             "repo": "awesome-typescript",
-            "stars": 5118
+            "stars": 5118,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -546,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
+            "homepage": null,
             "id": 21791844,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-03T08:39:39Z",
+            "open_issues": 17,
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3284
+            "stars": 3284,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -562,12 +934,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
+            "homepage": "https://awesome-cl.com",
             "id": 28573641,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T18:33:43Z",
+            "open_issues": 49,
             "owner": "CodyReichert",
             "repo": "awesome-cl",
-            "stars": 2973
+            "stars": 2973,
+            "topics": [
+              "awesome",
+              "common-lisp",
+              "common-lisp-tools",
+              "libraries",
+              "lisp",
+              "quicklisp"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -578,12 +962,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
+            "homepage": null,
             "id": 21657624,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2026-08-06T21:10:02Z",
+            "open_issues": 0,
             "owner": "razum2um",
             "repo": "awesome-clojure",
-            "stars": 2841
+            "stars": 2841,
+            "topics": [
+              "awesome-list",
+              "clojure",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -594,12 +987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome C-Sharp frameworks, libraries and software.",
+            "homepage": null,
             "id": 40623823,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-08T00:07:46Z",
+            "open_issues": 17,
             "owner": "uhub",
             "repo": "awesome-c-sharp",
-            "stars": 924
+            "stars": 924,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -610,12 +1008,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
+            "homepage": "https://j2team.github.io/awesome-AutoIt/",
             "id": 41612408,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-21T12:04:57Z",
+            "open_issues": 0,
             "owner": "J2TEAM",
             "repo": "awesome-AutoIt",
-            "stars": 923
+            "stars": 923,
+            "topics": [
+              "autoit",
+              "autoit-script",
+              "awesome",
+              "awesome-list",
+              "list",
+              "programming-language",
+              "scripting-language",
+              "udf"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -626,12 +1038,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
+            "homepage": null,
             "id": 21602406,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T00:08:29Z",
+            "open_issues": 3,
             "owner": "dlang-community",
             "repo": "awesome-d",
-            "stars": 762
+            "stars": 762,
+            "topics": [
+              "dlang"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -642,12 +1061,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!",
+            "homepage": null,
             "id": 21791812,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2024-08-07T13:32:26Z",
+            "open_issues": 5,
             "owner": "hachiojipm",
             "repo": "awesome-perl",
-            "stars": 709
+            "stars": 709,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -658,12 +1082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Cobol frameworks, libraries and software. Inspired by awesome-python.",
+            "homepage": null,
             "id": 45566432,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-28T01:56:51Z",
+            "open_issues": 1,
             "owner": "loveOSS",
             "repo": "awesome-cobol",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -674,12 +1103,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of awesome julia libraries, softwares and tutorials.",
+            "homepage": null,
             "id": 28630210,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2017-10-01T18:29:44Z",
+            "open_issues": 0,
             "owner": "melvin0008",
             "repo": "awesome-julia",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -695,12 +1129,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
+                "homepage": "https://awesome-ruby.com",
                 "id": 21461715,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-13T09:40:38Z",
+                "open_issues": 8,
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14147
+                "stars": 14148,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "collection",
+                  "curated-list",
+                  "ruby",
+                  "ruby-libraries"
+                ]
               },
               "first_seen": "2026-08-28T20:11:12.731Z"
             },
@@ -711,12 +1157,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A curated list of awesome Ruby frameworks, libraries and resources. Inspired by awesome-php & awesome-python.",
+                "homepage": null,
                 "id": 21458866,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-15T08:02:23Z",
+                "open_issues": 8,
                 "owner": "sdogruyol",
                 "repo": "awesome-ruby",
-                "stars": 1265
+                "stars": 1265,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:11:12.731Z"
             }
@@ -735,12 +1186,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of cryptography resources and links.",
+            "homepage": null,
             "id": 59573221,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T08:39:47Z",
+            "open_issues": 72,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7091
+            "stars": 7092,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "crypto",
+              "cryptography",
+              "encryption",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -751,12 +1214,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of known efforts in materials informatics, i.e. in modern materials science",
+            "homepage": null,
             "id": 121643986,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-24T10:49:03Z",
+            "open_issues": 5,
             "owner": "tilde-lab",
             "repo": "awesome-materials-informatics",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "ab-initio",
+              "atomistic-simulations",
+              "awesome",
+              "awesome-list",
+              "chemistry",
+              "computational-materials",
+              "computational-materials-engineering",
+              "crystal-structure",
+              "crystallography",
+              "data-science",
+              "materials",
+              "materials-data",
+              "materials-design",
+              "materials-discoveries",
+              "materials-genome",
+              "materials-informatics",
+              "materials-platform",
+              "materials-science",
+              "phase-diagram",
+              "phase-diagrams"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -767,12 +1256,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of space exploration related books (some are online, some are on paper)",
+            "homepage": null,
             "id": 31169788,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-04-12T13:10:06Z",
+            "open_issues": 6,
             "owner": "Hunter-Github",
             "repo": "awesome-space-books",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "aerospace-engineering",
+              "awesome",
+              "books",
+              "rocket-science",
+              "space",
+              "space-science"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -783,12 +1284,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of awesome Molecular Dynamics libraries, tools and software.",
+            "homepage": "https://awesome-md.com",
             "id": 139903850,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-08-02T19:34:46Z",
+            "open_issues": 2,
             "owner": "ipudu",
             "repo": "awesome-molecular-dynamics",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "awesome-list",
+              "molecular-dynamics"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -799,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources related to Outer Space",
+            "homepage": null,
             "id": 33711470,
             "language": null,
+            "license": null,
             "last_commit": "2021-12-04T21:36:49Z",
+            "open_issues": 1,
             "owner": "elburz",
             "repo": "awesome-space",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -820,12 +1334,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Python packages related to chemistry ",
+                "homepage": null,
                 "id": 80406867,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-21T08:25:01Z",
+                "open_issues": 10,
                 "owner": "lmmentel",
                 "repo": "awesome-python-chemistry",
-                "stars": 1434
+                "stars": 1434,
+                "topics": [
+                  "atomistic-simulations",
+                  "chemistry",
+                  "computational-chemistry",
+                  "molecular-dynamics",
+                  "python-chemistry",
+                  "quantum-chemistry",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T20:11:12.731Z"
             },
@@ -836,12 +1363,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Cheminformatics libraries and software.",
+                "homepage": null,
                 "id": 73977763,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-15T00:55:18Z",
+                "open_issues": 35,
                 "owner": "hsiaoyi0504",
                 "repo": "awesome-cheminformatics",
-                "stars": 880
+                "stars": 880,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bioinformatics",
+                  "cheminformatics",
+                  "chemistry"
+                ]
               },
               "first_seen": "2026-08-28T20:11:12.731Z"
             }
@@ -860,12 +1398,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+            "homepage": "https://www.thataicollection.com/",
             "id": 584639396,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-15T09:47:26Z",
+            "open_issues": 24,
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 9135
+            "stars": 9135,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "assistant-chat-bots",
+              "assistive-technology",
+              "awesome",
+              "awesome-list",
+              "collections",
+              "generative-art",
+              "generative-design",
+              "generative-music",
+              "generative-testing",
+              "generative-text",
+              "software-development"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -876,12 +1433,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An exquisite list of awesome :octocat: secrets.",
+            "homepage": "http://nicedoc.io/kikobeats/awesome-github",
             "id": 24530816,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-02-13T21:55:24Z",
+            "open_issues": 3,
             "owner": "Kikobeats",
             "repo": "awesome-github",
-            "stars": 696
+            "stars": 696,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "github-notifications",
+              "github-profiles",
+              "github-stars"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -892,12 +1460,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.",
+            "homepage": null,
             "id": 21397918,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-09-08T13:46:59Z",
+            "open_issues": 5,
             "owner": "emijrp",
             "repo": "awesome-wikipedia",
-            "stars": 101
+            "stars": 102,
+            "topics": [
+              "datasets",
+              "wikipedia"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         }
@@ -914,12 +1490,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+            "homepage": null,
             "id": 23208012,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
+            "open_issues": 316,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14804
+            "stars": 14805,
+            "topics": [
+              "awesome-list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -930,12 +1514,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 A curated list of Web Security materials and resources.",
+            "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
             "id": 80358070,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T13:51:02Z",
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13738
+            "stars": 13739,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "penetration-testing",
+              "security",
+              "web",
+              "websecurity"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -946,12 +1543,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A curated list of awesome infosec courses and training resources.",
+            "homepage": null,
             "id": 35577029,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T15:30:27Z",
+            "open_issues": 15,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5728
+            "stars": 5728,
+            "topics": [
+              "awesome",
+              "courses",
+              "infosec",
+              "lab",
+              "penetration-testing",
+              "pentest",
+              "security",
+              "security-professionals"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -962,12 +1573,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of OSX and iOS security resources",
+            "homepage": null,
             "id": 64573526,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-06-27T22:16:28Z",
+            "open_issues": 0,
             "owner": "kai5263499",
             "repo": "osx-security-awesome",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacking-mac",
+              "mac-osx",
+              "malware",
+              "osx-incident-response",
+              "osx-security"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         }
@@ -984,12 +1608,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78691
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1000,12 +1634,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+            "homepage": null,
             "id": 28699471,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-16T19:35:44Z",
+            "open_issues": 83,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48180
+            "stars": 48191,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1016,12 +1659,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+            "homepage": "https://analysis-tools.dev",
             "id": 48246447,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:40:37Z",
+            "open_issues": 11,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14752
+            "stars": 14752,
+            "topics": [
+              "analysis",
+              "awesome-list",
+              "code-quality",
+              "hacktoberfest",
+              "linter",
+              "sast",
+              "static-analysis",
+              "static-analyzers",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1032,12 +1690,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+            "homepage": null,
             "id": 140943444,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-18T12:10:08Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4801
+            "stars": 4801,
+            "topics": [
+              "attention-mechanism",
+              "classification-algorithm",
+              "deep-graph-kernels",
+              "deepwalk",
+              "graph-attention-model",
+              "graph-attention-networks",
+              "graph-classification",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-kernel",
+              "graph-kernels",
+              "graph-representation-learning",
+              "graph2vec",
+              "kernel-methods",
+              "netlsd",
+              "network-embedding",
+              "node-embedding",
+              "node2vec",
+              "structural-attention",
+              "weisfeiler-lehman"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1048,12 +1732,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 A curated list of awesome Internet of Things projects and resources.",
+            "homepage": null,
             "id": 43182851,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-10T11:02:29Z",
+            "open_issues": 9,
             "owner": "HQarroum",
             "repo": "awesome-iot",
-            "stars": 4486
+            "stars": 4486,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "embedded-systems",
+              "hacktoberfest",
+              "hardware",
+              "internet-of-things",
+              "iot"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1064,12 +1761,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research papers on decision, classification and regression trees with implementations.",
+            "homepage": null,
             "id": 186166778,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-28T23:17:27Z",
+            "open_issues": 3,
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
-            "stars": 2473
+            "stars": 2473,
+            "topics": [
+              "cart",
+              "catboost",
+              "classification-model",
+              "classification-trees",
+              "classifier",
+              "decision-tree",
+              "decision-tree-classifier",
+              "decision-tree-learning",
+              "decision-tree-model",
+              "ensemble-learning",
+              "gradient-boosting",
+              "gradient-boosting-machine",
+              "lightgbm",
+              "machine-learning",
+              "machine-learning-research",
+              "random-forest",
+              "regression-tree",
+              "statistical-learning",
+              "tree-ensemble",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1080,12 +1803,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of community detection research papers with implementations. ",
+            "homepage": null,
             "id": 152444880,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-20T17:06:00Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "bigclam",
+              "clustering",
+              "community-detection",
+              "data-science",
+              "deep-learning",
+              "deepwalk",
+              "dimensionality-reduction",
+              "embedding",
+              "factorization",
+              "graph-clustering",
+              "igraph",
+              "machine-learning",
+              "matrix-factorization",
+              "network-analysis",
+              "network-clustering",
+              "network-science",
+              "networkx",
+              "node2vec",
+              "social-network",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1096,12 +1845,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of operating systems and stuff",
+            "homepage": null,
             "id": 82377935,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-27T07:25:24Z",
+            "open_issues": 1,
             "owner": "jubalh",
             "repo": "awesome-os",
-            "stars": 2266
+            "stars": 2266,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "kernel",
+              "linux",
+              "linux-kernel",
+              "operating-system",
+              "os",
+              "os-dev",
+              "osdev"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1112,12 +1876,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of data mining papers about fraud detection.",
+            "homepage": null,
             "id": 188821801,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T12:28:59Z",
+            "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "churn",
+              "classification",
+              "classifier",
+              "credit-card-fraud",
+              "credit-card-fraud-detection",
+              "credit-card-validation",
+              "credit-scoring",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "fraud-checker",
+              "fraud-detection",
+              "fraud-explorer",
+              "fraud-management",
+              "fraud-prevention",
+              "gradient-boosting",
+              "graph-classification",
+              "link-prediction",
+              "logistic-regression",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1128,12 +1918,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
+            "homepage": null,
             "id": 111368115,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T20:00:04Z",
+            "open_issues": 3,
             "owner": "sirredbeard",
             "repo": "awesome-unix",
-            "stars": 1772
+            "stars": 1773,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bsd",
+              "devuan",
+              "freebsd",
+              "illumos",
+              "kernel",
+              "linux",
+              "linux-distribution",
+              "macos",
+              "minix",
+              "netbsd",
+              "openbsd",
+              "plan9",
+              "posix",
+              "slackware",
+              "solaris",
+              "unix",
+              "unix-philosophy"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1144,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-curated list of awesome open companies.",
+            "homepage": null,
             "id": 33875441,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-30T16:18:37Z",
+            "open_issues": 12,
             "owner": "opencompany",
             "repo": "awesome-open-company",
-            "stars": 1252
+            "stars": 1253,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1160,12 +1980,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of gradient boosting research papers with implementations. ",
+            "homepage": null,
             "id": 186163475,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T12:39:45Z",
+            "open_issues": 3,
             "owner": "benedekrozemberczki",
             "repo": "awesome-gradient-boosting-papers",
-            "stars": 1049
+            "stars": 1049,
+            "topics": [
+              "adaboost",
+              "boosting",
+              "catboost",
+              "classification-algorithm",
+              "classification-tree",
+              "classification-trees",
+              "classifier",
+              "decision-tree",
+              "deep-learning",
+              "gradient-boosted-trees",
+              "gradient-boosting",
+              "gradient-boosting-classifier",
+              "gradient-boosting-decision-trees",
+              "gradient-boosting-machine",
+              "h2o",
+              "lightgbm",
+              "machine-learning",
+              "random-forest",
+              "xgboost",
+              "xgboost-algorithm"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1176,12 +2022,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Monte Carlo tree search papers with implementations. ",
+            "homepage": null,
             "id": 223468637,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-13T10:28:51Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-monte-carlo-tree-search-papers",
-            "stars": 714
+            "stars": 714,
+            "topics": [
+              "atari",
+              "deep-learning",
+              "deep-q-learning",
+              "learning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "monte-carlo",
+              "monte-carlo-tree-search",
+              "policy-evaluation",
+              "policy-gradient",
+              "q-learning",
+              "reinforcement-learning",
+              "reinforcement-learning-agent",
+              "reinforcement-learning-algorithms",
+              "rl",
+              "tree-search"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1192,12 +2060,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 A curated list of awesome practical Metric Learning and its applications",
+            "homepage": "https://qdrant.tech",
             "id": 444042096,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-04-12T07:44:14Z",
+            "open_issues": 1,
             "owner": "qdrant",
             "repo": "awesome-metric-learning",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "anomaly-detection",
+              "awesome-list",
+              "metric-learning",
+              "recommendation-system",
+              "semantic-similarity",
+              "similarity-search",
+              "survey",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1208,12 +2090,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things",
+            "homepage": null,
             "id": 41702100,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-27T09:58:38Z",
+            "open_issues": 0,
             "owner": "phpearth",
             "repo": "awesome-community",
-            "stars": 284
+            "stars": 284,
+            "topics": [
+              "awesome",
+              "community",
+              "groups"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1224,12 +2115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Snips projects",
+            "homepage": null,
             "id": 97846559,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-06T08:27:27Z",
+            "open_issues": 1,
             "owner": "snipsco",
             "repo": "awesome-snips",
-            "stars": 274
+            "stars": 274,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         },
@@ -1240,12 +2136,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome cryptocurrencies 🎩",
+            "homepage": null,
             "id": 96637077,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-03-31T07:33:35Z",
+            "open_issues": 3,
             "owner": "kasketis",
             "repo": "awesome-cryptocurrencies",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "cryptocurrencies"
+            ]
           },
           "first_seen": "2026-08-28T20:11:12.731Z"
         }
@@ -1254,15 +2157,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:11:12.731Z",
+    "last_updated": "2026-08-29T04:23:15.295Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome curated lists of many topics.",
+      "homepage": null,
       "id": 21388604,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-07-31T23:19:05Z",
+      "open_issues": 25,
       "owner": "emijrp",
       "repo": "awesome-awesome",
-      "stars": 3203
+      "stars": 3203,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "8c3451d24596bb0b173779a1133a1821d41e74b6",
     "enhanced_repository": "enhansome/enhansome-awesome",
